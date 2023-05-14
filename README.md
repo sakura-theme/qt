@@ -12,7 +12,7 @@ Clone this repository and move `/path/to/qt/sakura.conf` to `~/.config/qt5ct/col
 git clone https://github.com/sakura-theme/qt.git /path/to
 ```
 
-Add the following line to `~/.config/qt5ct/qt5ct.conf`
+Add the following line to `~/.config/qt5ct/qt5ct.conf`.
 
 ```
 [Appearance]
