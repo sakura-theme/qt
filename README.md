@@ -6,10 +6,10 @@
 
 ## Installation
 
-Clone this repository and move `/path/to/qt/sakura.conf` to `~/.config/qt5ct/colors/sakura.conf`.
+Clone this repository and copy `/path/to/qt/sakura.conf` to `~/.config/qt5ct/colors/sakura.conf`.
 
 ```
-git clone https://github.com/sakura-theme/qt.git /path/to
+git clone https://github.com/sakura-theme/qt.git /path/to/qt
 ```
 
 Add the following line to `~/.config/qt5ct/qt5ct.conf`.
